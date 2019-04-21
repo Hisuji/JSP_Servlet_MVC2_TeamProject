@@ -1,0 +1,2 @@
+# JSP_Servlet_MVC2_TeamProject
+팀프로젝트_학생정보관리시스템
