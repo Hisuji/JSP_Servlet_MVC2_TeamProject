@@ -6,7 +6,7 @@
 
 
 #### 📃 프로젝트 요약
-<table border="1" style="text-align: center;">
+<table style="text-align: center;">
 	<th>프로젝트명</th>
 	<th colspan="2">학생 정보 관리 시스템</th>
 	<tr>
@@ -28,4 +28,5 @@
         <td  colspan="2">프로젝트 기획, UI 설계, 제작</td>
 	</tr>
 </table>
+
 
